@@ -4,5 +4,5 @@
 \beamer@sectionintoc {3}{\foreignlanguage {english}{ASP}: Facts, Rules, Constraints}{6}{0}{3}
 \beamer@sectionintoc {4}{\foreignlanguage {english}{Virtuals}, \foreignlanguage {english}{Conditionals}, \foreignlanguage {english}{Variants}}{10}{0}{4}
 \beamer@sectionintoc {5}{Βελτιστοποίηση: από έγκυρο σε βέλτιστο}{12}{0}{5}
-\beamer@sectionintoc {6}{Αποτελέσματα \& περιορισμοί}{14}{0}{6}
-\beamer@sectionintoc {7}{Κλείσιμο}{17}{0}{7}
+\beamer@sectionintoc {6}{Αποτελέσματα \& περιορισμοί}{15}{0}{6}
+\beamer@sectionintoc {7}{Κλείσιμο}{18}{0}{7}

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2026.2.5)  5 FEB 2026 21:15
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2026.2.5)  8 FEB 2026 21:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1463,19 +1463,33 @@ Overfull \hbox (11.52742pt too wide) in paragraph at lines 163--163
 
 ] [5
 
-] [6
+]
+Overfull \hbox (21.47716pt too wide) in paragraph at lines 266--266
+ [][] 
+ []
+
+
+Underfull \hbox (badness 2556) in paragraph at lines 266--266
+[]\TU/Calibri(0)/m/n/10.95 Η ASP εγγυάται τερματισμό και επιτρέ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--266
+\TU/Calibri(0)/m/n/10.95 πει τη μοντελοποίηση multi-objective
+ []
+
+[6
 
 ] [7
 
 ]
-Underfull \hbox (badness 6691) in paragraph at lines 316--316
+Underfull \hbox (badness 6691) in paragraph at lines 322--322
 []\TU/Calibri(0)/m/n/10.95 Αντί για διαδικαστικό backtracking, το
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 316--316
-\TU/Calibri(0)/m/n/10.95 backtracking γίνεται \TU/Calibri(0)/b/n/10.95 εσωτερικ
-ά \TU/Calibri(0)/m/n/10.95 στον
+Underfull \hbox (badness 10000) in paragraph at lines 322--322
+\TU/Calibri(0)/m/n/10.95 backtracking γίνεται εσωτερικά στον
  []
 
 [8
@@ -1483,23 +1497,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 316--316
 ] [9
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-[]$[] [] [][][][][][][][][][][] [][] [][] [] [][][][][][][][][][] [][] [] [] []
-[][] [] [][][][][][][][] []
+Underfull \hbox (badness 10000) in paragraph at lines 383--383
+[]$[][][][][][][][][][][][] [][] [][] [] [][][][][][][][][][] [][] [] [] [][] [
+] [][][][][][][][] []
  []
 
 [10
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 412--412
-[]$[][][][][][][][][] [] [][][][][][][][][] [] [][][][][][][][] [] [][][][][][]
-[][][] []
+Underfull \hbox (badness 6125) in paragraph at lines 422--422
+[]\TU/Calibri(0)/m/n/10.95 Ο παλιός αλγόριθμος αποφάσιζε τις τιμές των
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 412--412
-[][][][][][][] [][] [][][][][] [][] [][][][] [] [][][][][][][][][][][] [] [][][
-][][][][][][] [][]
+Overfull \vbox (4.07518pt too high) detected at line 422
  []
 
 [11
@@ -1507,21 +1518,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 412--412
 ] [12
 
 ]
-Overfull \vbox (21.22139pt too high) detected at line 484
+Overfull \vbox (1.59566pt too high) detected at line 508
  []
 
 [13
 
 ] [14
 
+] [15
+
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 550--550
+Underfull \hbox (badness 10000) in paragraph at lines 625--625
 []\TU/Calibri(0)/m/n/9 Φυσικά ενσωμα-
  []
 
-[15
-
-] [16
+[16
 
 ] [17
 
@@ -1546,12 +1557,12 @@ Package rerunfilecheck Info: File `presentation.out' has not changed.
 (rerunfilecheck)             Checksum: EC99975370263C6AD825A97A233B9561;1525.
  ) 
 Here is how much of TeX's memory you used:
- 32190 strings out of 409617
- 675739 string characters out of 5772390
+ 32168 strings out of 409617
+ 674940 string characters out of 5772390
  1937191 words of memory out of 5000000
- 53658 multiletter control sequences out of 15000+600000
- 566809 words of font info for 130 fonts, out of 8000000 for 9000
+ 53643 multiletter control sequences out of 15000+600000
+ 566753 words of font info for 123 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 128i,17n,123p,1011b,1339s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,17n,123p,1011b,1318s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on presentation.pdf (18 pages).
